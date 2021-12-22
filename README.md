@@ -1,0 +1,2 @@
+# UMinnAnalyticsforDecisionMaking
+Analytics for Decision Making Specialization
